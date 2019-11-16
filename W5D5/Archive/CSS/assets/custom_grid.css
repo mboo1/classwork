@@ -1,0 +1,14 @@
+/* PUT FLUID GRID CODE HERE */
+.fluid1 {
+  width: 20%;
+  float: left;
+  padding: 15px;
+  border: 1px solid red;
+}
+
+.fluid2 {
+  width: 30%;
+  float: right;
+  padding: 15px;
+  border: 1px solid red;
+}
