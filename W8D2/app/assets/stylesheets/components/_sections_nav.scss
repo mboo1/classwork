@@ -1,0 +1,22 @@
+.navline {
+  display: flex;
+  justify-content: space-evenly;
+  border-bottom-style:solid;
+  border-bottom-width: 1px;
+  border-bottom-color: gray;
+}
+
+a {
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+
+nav a:hover {
+  background-color: $lightest-gray;
+  text-decoration: none;
+}
+
+nav .all:hover{
+  text-decoration: underline;
+  background-color: transparent;
+}
